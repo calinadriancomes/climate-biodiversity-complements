@@ -4,9 +4,9 @@ Code, source coefficients and numerical evidence for restricted climate and biod
 
 ## Reproduce
 
-[Open in Google Colab](https://colab.research.google.com/github/calinadriancomes/climate-biodiversity-complements/blob/main/notebooks/reproduce.ipynb)
+[Quick in Colab](https://colab.research.google.com/github/calinadriancomes/climate-biodiversity-complements/blob/main/notebooks/reproduce.ipynb) | [Full in Colab](https://colab.research.google.com/github/calinadriancomes/climate-biodiversity-complements/blob/main/notebooks/full.ipynb)
 
-Run the notebook cells in order. The default mode checks the released scientific inputs, rebuilds the principal tables and five figures, and downloads `outputs.zip`. For calculations directly from the original European coefficients, set `RUN_FULL_SOURCE_REPLAY = True` before running the cells. The notebook retrieves the repository automatically in Colab and also supports local execution.
+Choose a notebook and select **Runtime > Run all**. Quick checks the released numerical certificates. Full verifies the results against the original European coefficients. Both regenerate the tables and figures and download `outputs.zip`.
 
 For local reproduction with Python 3.12, from the repository root:
 
@@ -19,11 +19,11 @@ Omit `--full` for the shorter calculation from published numerical certificates.
 
 ## Files
 
-- `notebooks/reproduce.ipynb`: the single reproduction notebook.
+- `notebooks/`: Quick and Full Colab notebooks.
 - `code/` and `tests/`: analysis, verification and numerical tests.
 - `inputs/`: the exact European coefficient database in two compressed parts, provenance and checksums.
 - `certificates/`: policy assignments and mathematical certificates.
-- `data/` and `results/`: numerical tables and regression references.
+- `data/` and `results/`: numerical tables and reference values.
 - `figures/`: reproducible SVG, PNG and TIFF figures.
 
 ## Sources and licenses
