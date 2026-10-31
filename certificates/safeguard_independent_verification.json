@@ -1,0 +1,43 @@
+{
+  "status": "verified",
+  "Belgian_climate_only_method": "All pairwise closed support intervals; every boundary and every open cell including zero and the unbounded tail",
+  "climate_only_boundaries": 1425,
+  "climate_only_open_cells": 1425,
+  "climate_only_exact_maximum_E": "7098217925006922017611/70368744177664",
+  "dual_bound_checks": [
+    {
+      "threshold_country": "Slovenia",
+      "exact_upper_verified": true,
+      "upper_E": 108730339.28148149
+    },
+    {
+      "threshold_country": "Austria",
+      "exact_upper_verified": true,
+      "upper_E": 91919370.966967
+    },
+    {
+      "threshold_country": "Bulgaria",
+      "exact_upper_verified": true,
+      "upper_E": 62374088.405783
+    },
+    {
+      "threshold_country": "Portugal",
+      "exact_upper_verified": true,
+      "upper_E": 61969890.407386
+    },
+    {
+      "threshold_country": "Lithuania",
+      "exact_upper_verified": true,
+      "upper_E": 61607568.126136
+    },
+    {
+      "threshold_country": "Czechia",
+      "exact_upper_verified": true,
+      "upper_E": 59803754.495647
+    }
+  ],
+  "complete_policies": 7,
+  "long_double_response_checks": 483,
+  "minimum_normalized_margin": 5.808613614977539e-07,
+  "source_unchanged": true
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Belgium",
+  "climate_coefficient": 0.9415136201319285,
+  "biodiversity_ambition": 0.05,
+  "original_E_floor": 109536881.253328,
+  "effective_E_floor": 109536880.15795918,
+  "maximum_guaranteed_E_subject_to_B_C": 59758942.519932,
+  "minimum_required_E_floor_relaxation": 49777937.63802718,
+  "fraction_of_original_E_floor": 0.4544399755449018,
+  "biodiversity_coefficient_witness": 17.407626503714194,
+  "beta_cell_left": 0.0,
+  "beta_cell_right": 34.81525300742839,
+  "attained_B_guarantee": 286290.731778,
+  "attained_C20_guarantee": 446411290.10345185,
+  "B_target_effective": 270514.27615295723,
+  "C20_target_effective": 279892553.5774417,
+  "exact_E_numerator": "4205161738512822582867",
+  "exact_E_denominator": "70368744177664",
+  "exact_relaxation_numerator": "1368285530992987111279307277",
+  "exact_relaxation_denominator": "27487790694400000000",
+  "unit_biodiversity_price_segments": 1427,
+  "national_breakpoints": 737,
+  "B_C_compliant_open_cells": 738,
+  "float64_witness_checks": [
+    {
+      "band": 0.0,
+      "minimum_E": 59758942.519932,
+      "minimum_B": 286290.731778,
+      "minimum_C20": 446411290.10345185,
+      "B_and_C_safeguards": true
+    },
+    {
+      "band": 1e-06,
+      "minimum_E": 59758942.519932,
+      "minimum_B": 286290.731778,
+      "minimum_C20": 446411290.10345185,
+      "B_and_C_safeguards": true
+    },
+    {
+      "band": 0.0001,
+      "minimum_E": 59758942.519932,
+      "minimum_B": 286290.731778,
+      "minimum_C20": 446411290.10345185,
+      "B_and_C_safeguards": true
+    }
+  ],
+  "interpretation": "Global maximum of guaranteed original E at this fixed climate coefficient under exact best response, subject to B and C safeguards; not a welfare optimum or a comparison of matched complete EU policies."
+}

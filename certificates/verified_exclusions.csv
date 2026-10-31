@@ -1,0 +1,16 @@
+country,climate,bio,verified_shortfall_lower,all_finite_prices_excluded
+Belgium,positive,gain,-2e-09,False
+Finland,positive,gain,0.000972925723064676,True
+Germany,positive,gain,-2e-09,False
+Greece,positive,level,-2e-09,False
+Greece,positive,gain,-2e-09,False
+Greece,signed,signed,-2e-09,False
+Latvia,positive,level,-2e-09,False
+Latvia,positive,gain,-2e-09,False
+Latvia,signed,signed,-2e-09,False
+Poland,positive,level,-2e-09,False
+Poland,positive,gain,-2e-09,False
+Poland,signed,signed,-2e-09,False
+Sweden,positive,level,-2e-09,False
+Sweden,positive,gain,0.023215064722819145,True
+Sweden,signed,signed,-2e-09,False

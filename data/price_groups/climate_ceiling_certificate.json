@@ -1,0 +1,18 @@
+{
+  "country": "Belgium",
+  "climate_cutoff": 0.269,
+  "cutoff_numerator": "269",
+  "cutoff_denominator": "1000",
+  "excluded_actions": 6408,
+  "original_actions": 8970,
+  "minimum_strict_advantage": 7.628250000008848,
+  "retained_land_value_upper": 109521593.241889,
+  "land_value_floor": 109536881.253328,
+  "effective_land_value_floor": 109536880.15795918,
+  "certified_land_value_shortfall": 15286.916070182457,
+  "upper_numerator": "7706896976768661497699",
+  "upper_denominator": "70368744177664",
+  "shortfall_numerator": "420203549300035173057277",
+  "shortfall_denominator": "27487790694400000000",
+  "scope": "Every finite lambda >= 269/1000 and beta >= 0; even arbitrary mixtures of retained actions"
+}

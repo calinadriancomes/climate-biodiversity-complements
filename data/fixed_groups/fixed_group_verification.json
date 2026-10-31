@@ -1,0 +1,125 @@
+{
+  "source_sha256": "f82ee0744c2eb30c6b72f5fbc993a42645ebb09264917f9b940198a02c36497d",
+  "biodiversity_ambition": 0.05,
+  "fixed_groups": {
+    "CEE-11": [
+      "Bulgaria",
+      "Croatia",
+      "Czechia",
+      "Estonia",
+      "Hungary",
+      "Latvia",
+      "Lithuania",
+      "Poland",
+      "Romania",
+      "Slovakia",
+      "Slovenia"
+    ],
+    "Other twelve countries": [
+      "Austria",
+      "Belgium",
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Italy",
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "Sweden"
+    ]
+  },
+  "regional_certificates": [
+    {
+      "group": "CEE-11",
+      "country": "Slovenia",
+      "climate_cutoff": 0.6937438952159174,
+      "climate_cutoff_exact": "2520086288011463/3632588777198715",
+      "removed_actions": 4132,
+      "retained_actions": 1445,
+      "minimum_strict_advantage": 0.0166319999989355,
+      "land_value_upper": 89851432.855959,
+      "land_value_upper_exact": "50581859941100262407081/562949953421312",
+      "original_land_value_floor": 96917399.14261702,
+      "effective_land_value_floor": 96917398.17344302,
+      "certified_shortfall": 7065965.317484024,
+      "certified_shortfall_exact": "1553822205607124048603698039/219902325555200000000",
+      "scope": "Every climate coefficient at least cutoff and every nonnegative biodiversity coefficient"
+    },
+    {
+      "group": "Other twelve countries",
+      "country": "Belgium",
+      "climate_cutoff": 0.269,
+      "climate_cutoff_exact": "269/1000",
+      "removed_actions": 6408,
+      "retained_actions": 2562,
+      "minimum_strict_advantage": 7.628250000008848,
+      "land_value_upper": 109521593.241889,
+      "land_value_upper_exact": "7706896976768661497699/70368744177664",
+      "original_land_value_floor": 109536881.253328,
+      "effective_land_value_floor": 109536880.15795918,
+      "certified_shortfall": 15286.916070182457,
+      "certified_shortfall_exact": "420203549300035173057277/27487790694400000000",
+      "scope": "Every climate coefficient at least cutoff and every nonnegative biodiversity coefficient"
+    }
+  ],
+  "coverage_bounds": [
+    {
+      "group": "CEE-11",
+      "countries": [
+        "Bulgaria",
+        "Croatia",
+        "Czechia",
+        "Estonia",
+        "Hungary",
+        "Latvia",
+        "Lithuania",
+        "Poland",
+        "Romania",
+        "Slovakia",
+        "Slovenia"
+      ],
+      "maximum_climate_only_coverage": 1,
+      "coverage_witness_countries": [
+        "Slovenia"
+      ],
+      "climate_cutoff_exact": "2520086288011463/3632588777198715"
+    },
+    {
+      "group": "Other twelve countries",
+      "countries": [
+        "Austria",
+        "Belgium",
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Italy",
+        "Netherlands",
+        "Portugal",
+        "Spain",
+        "Sweden"
+      ],
+      "maximum_climate_only_coverage": 3,
+      "coverage_witness_countries": [
+        "Denmark",
+        "Italy",
+        "Netherlands"
+      ],
+      "climate_cutoff_exact": "269/1000"
+    }
+  ],
+  "complement_lower_bound": 19,
+  "complement_upper_bound": 19,
+  "minimum_identified": true,
+  "distinct_climate_coefficients": 2,
+  "all_original_national_floors_retained": true,
+  "country_policies": 23,
+  "response_checks": 69,
+  "all_response_checks_pass": true,
+  "minimum_normalized_margin": 2.066225707166587e-05,
+  "source_unchanged": true,
+  "interpretation": "A descriptive fixed-partition restriction, not an optimal geographic grouping or a causal regional comparison"
+}

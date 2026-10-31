@@ -1,0 +1,5 @@
+policy,status,exact,stress6,stress4
+common_candidate,fixed_price_candidates,6,2,2
+national_candidate,fixed_price_candidates,4,1,1
+common_final,final_constructions,23,23,23
+national_final,final_constructions,23,23,23

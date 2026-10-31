@@ -1,0 +1,4 @@
+alpha,climate_only_national_countries,maximum_common_climate_only_countries,national_B_minimum,common_B_minimum_lower,common_B_minimum_upper,extra_B_minimum_lower,CEE11_national_B_minimum,CEE11_common_B_minimum_lower,CEE11_common_B_minimum_upper,choice_convention,source
+0.0,21,11,2,12,21,10,0,5,11,All exact best responses,Coverage; target nesting
+0.025,20,9,3,14,21,11,0,6,11,All exact best responses,Coverage; target nesting
+0.05,19,9,4,14,21,10,0,6,11,All exact best responses,Coverage; target nesting

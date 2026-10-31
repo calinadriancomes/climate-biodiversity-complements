@@ -1,0 +1,302 @@
+[
+  {
+    "country": "Belgium",
+    "climate": "positive",
+    "bio": "gain",
+    "status": 0,
+    "seconds": 0.11718463897705078,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      109536881.253328,
+      270514.2788581,
+      279892556.3763673
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Finland",
+    "climate": "positive",
+    "bio": "gain",
+    "status": 0,
+    "seconds": 0.6360311508178711,
+    "normalized_shortfall": 0.0009729377230667306,
+    "certificate_lower": 0.0009729367230645042,
+    "mu": [
+      0.09284794032098798,
+      0.907152059679012,
+      0.0
+    ],
+    "scales": [
+      1120086067.964851,
+      5071409.72817895,
+      3329484745.0608873
+    ],
+    "classification": "all_price_excluded_by_dominance_relaxation"
+  },
+  {
+    "country": "Germany",
+    "climate": "positive",
+    "bio": "gain",
+    "status": 0,
+    "seconds": 1.5057268142700195,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      3008856244.1817036,
+      3646729.07909795,
+      3847497341.0861826
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Greece",
+    "climate": "positive",
+    "bio": "level",
+    "status": 0,
+    "seconds": 0.6676981449127197,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      308471169.91662,
+      913901.4288556,
+      1060034123.4918294
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Greece",
+    "climate": "positive",
+    "bio": "gain",
+    "status": 0,
+    "seconds": 0.416654109954834,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      308471169.91662,
+      913901.4288556,
+      1060034123.4918294
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Greece",
+    "climate": "signed",
+    "bio": "signed",
+    "status": 0,
+    "seconds": 0.4232492446899414,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      308471169.91662,
+      913901.4288556,
+      1060034123.4918294
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Latvia",
+    "climate": "positive",
+    "bio": "level",
+    "status": 0,
+    "seconds": 0.1852254867553711,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      231082955.97453302,
+      865931.39084425,
+      655377335.0210589
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Latvia",
+    "climate": "positive",
+    "bio": "gain",
+    "status": 0,
+    "seconds": 0.14522290229797363,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      231082955.97453302,
+      865931.39084425,
+      655377335.0210589
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Latvia",
+    "climate": "signed",
+    "bio": "signed",
+    "status": 0,
+    "seconds": 0.2290799617767334,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      231082955.97453302,
+      865931.39084425,
+      655377335.0210589
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Poland",
+    "climate": "positive",
+    "bio": "level",
+    "status": 0,
+    "seconds": 0.9236834049224854,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      3289074243.8268948,
+      3408368.1253245994,
+      3590041967.1348014
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Poland",
+    "climate": "positive",
+    "bio": "gain",
+    "status": 0,
+    "seconds": 0.9498984813690186,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      3289074243.8268948,
+      3408368.1253245994,
+      3590041967.1348014
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Poland",
+    "climate": "signed",
+    "bio": "signed",
+    "status": 0,
+    "seconds": 0.9113452434539795,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      3289074243.8268948,
+      3408368.1253245994,
+      3590041967.1348014
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Sweden",
+    "climate": "positive",
+    "bio": "level",
+    "status": 0,
+    "seconds": 2.437817096710205,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      1893656478.560495,
+      5752963.164213249,
+      4228431763.1734905
+    ],
+    "classification": "not_excluded"
+  },
+  {
+    "country": "Sweden",
+    "climate": "positive",
+    "bio": "gain",
+    "status": 0,
+    "seconds": 1.1118886470794678,
+    "normalized_shortfall": 0.02321507672281769,
+    "certificate_lower": 0.023215075722819306,
+    "mu": [
+      0.09592285943532453,
+      0.9040771405646755,
+      0.0
+    ],
+    "scales": [
+      1893656478.560495,
+      5752963.164213249,
+      4228431763.1734905
+    ],
+    "classification": "all_price_excluded_by_dominance_relaxation"
+  },
+  {
+    "country": "Sweden",
+    "climate": "signed",
+    "bio": "signed",
+    "status": 0,
+    "seconds": 2.5619797706604004,
+    "normalized_shortfall": 0.0,
+    "certificate_lower": -1e-09,
+    "mu": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scales": [
+      1893656478.560495,
+      5752963.164213249,
+      4228431763.1734905
+    ],
+    "classification": "not_excluded"
+  }
+]

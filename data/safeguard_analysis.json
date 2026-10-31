@@ -1,0 +1,154 @@
+{
+  "source_sha256": "f82ee0744c2eb30c6b72f5fbc993a42645ebb09264917f9b940198a02c36497d",
+  "biodiversity_ambition": 0.05,
+  "Belgian_climate_only_ceiling": {
+    "maximum_E_subject_to_B_C": 100871743.669116,
+    "exact_maximum_E": "7098217925006922017611/70368744177664",
+    "coefficient_cell": [
+      "34449044696658833/93694244767297888",
+      "952504780056747/2590504974297395"
+    ],
+    "minimum_effective_floor_relaxation": 8665136.488843182,
+    "fraction_of_original_floor": 0.07910702212529823
+  },
+  "regional_bounds": [
+    {
+      "climate_cutoff": 0.26920595999736874,
+      "cutoff_exact": "3834460745934099/14243595297710264",
+      "retained_actions": 2561,
+      "upper_E": 108730339.28148149,
+      "upper_E_exact": "673008202408149639571794136513271857432197/6189700196426901374495621120000000",
+      "dual_B_exact": "2649708922145189/8796093022208",
+      "dual_C20_exact": "0",
+      "minimum_effective_floor_relaxation": 806540.8764776881,
+      "scope": "All finite climate coefficients at least cutoff and all nonnegative biodiversity coefficients; fractional retained-action relaxation",
+      "threshold_country": "Slovenia",
+      "fraction_of_original_floor": 0.007363190071227114
+    },
+    {
+      "climate_cutoff": 0.42546073040215526,
+      "cutoff_exact": "7041538292980413/16550383595507368",
+      "retained_actions": 2025,
+      "upper_E": 91919370.966967,
+      "upper_E_exact": "6468250700546296449995/70368744177664",
+      "dual_B_exact": "0",
+      "dual_C20_exact": "0",
+      "minimum_effective_floor_relaxation": 17617509.190992184,
+      "scope": "All finite climate coefficients at least cutoff and all nonnegative biodiversity coefficients; fractional retained-action relaxation",
+      "threshold_country": "Austria",
+      "fraction_of_original_floor": 0.16083632279293983
+    },
+    {
+      "climate_cutoff": 0.7440007695513158,
+      "cutoff_exact": "788019472766469/1059164862479510",
+      "retained_actions": 1572,
+      "upper_E": 62374088.405783,
+      "upper_E_exact": "4389186270341542108619/70368744177664",
+      "dual_B_exact": "0",
+      "dual_C20_exact": "0",
+      "minimum_effective_floor_relaxation": 47162791.75217618,
+      "scope": "All finite climate coefficients at least cutoff and all nonnegative biodiversity coefficients; fractional retained-action relaxation",
+      "threshold_country": "Bulgaria",
+      "fraction_of_original_floor": 0.43056540603070403
+    },
+    {
+      "climate_cutoff": 0.7650979173633344,
+      "cutoff_exact": "916149751495371/1197428107833032",
+      "retained_actions": 1568,
+      "upper_E": 61969890.407386,
+      "upper_E_exact": "4360743364795219771371/70368744177664",
+      "dual_B_exact": "0",
+      "dual_C20_exact": "0",
+      "minimum_effective_floor_relaxation": 47566989.75057318,
+      "scope": "All finite climate coefficients at least cutoff and all nonnegative biodiversity coefficients; fractional retained-action relaxation",
+      "threshold_country": "Portugal",
+      "fraction_of_original_floor": 0.4342554690831859
+    },
+    {
+      "climate_cutoff": 0.7727830649222157,
+      "cutoff_exact": "2779918387642368/3597281713105579",
+      "retained_actions": 1567,
+      "upper_E": 61607568.126136,
+      "upper_E_exact": "4335247200876070895595/70368744177664",
+      "dual_B_exact": "0",
+      "dual_C20_exact": "0",
+      "minimum_effective_floor_relaxation": 47929312.03182318,
+      "scope": "All finite climate coefficients at least cutoff and all nonnegative biodiversity coefficients; fractional retained-action relaxation",
+      "threshold_country": "Lithuania",
+      "fraction_of_original_floor": 0.43756323425875315
+    },
+    {
+      "climate_cutoff": 0.9259007988480482,
+      "cutoff_exact": "3127485797507468/3377776324848735",
+      "retained_actions": 1551,
+      "upper_E": 59803754.495647,
+      "upper_E_exact": "4208315100968007110507/70368744177664",
+      "dual_B_exact": "0",
+      "dual_C20_exact": "0",
+      "minimum_effective_floor_relaxation": 49733125.66231218,
+      "scope": "All finite climate coefficients at least cutoff and all nonnegative biodiversity coefficients; fractional retained-action relaxation",
+      "threshold_country": "Czechia",
+      "fraction_of_original_floor": 0.4540308715499527
+    }
+  ],
+  "fixed_common_rate": 0.27,
+  "complete_country_count": 23,
+  "complement_count": 19,
+  "all_bands_compliant": true,
+  "unresolved_countries": [],
+  "relaxed_floor_exact_frontier": [
+    {
+      "q": 1,
+      "lower_bound": 19,
+      "attained_upper_bound": 19,
+      "exact": true,
+      "all_three_response_bands": true
+    },
+    {
+      "q": 2,
+      "lower_bound": 13,
+      "attained_upper_bound": 13,
+      "exact": true,
+      "all_three_response_bands": true
+    },
+    {
+      "q": 3,
+      "lower_bound": 10,
+      "attained_upper_bound": 10,
+      "exact": true,
+      "all_three_response_bands": true
+    },
+    {
+      "q": 4,
+      "lower_bound": 8,
+      "attained_upper_bound": 8,
+      "exact": true,
+      "all_three_response_bands": true
+    },
+    {
+      "q": 5,
+      "lower_bound": 6,
+      "attained_upper_bound": 6,
+      "exact": true,
+      "all_three_response_bands": true
+    },
+    {
+      "q": 6,
+      "lower_bound": 5,
+      "attained_upper_bound": 5,
+      "exact": true,
+      "all_three_response_bands": true
+    },
+    {
+      "q": 7,
+      "lower_bound": 4,
+      "attained_upper_bound": 4,
+      "exact": true,
+      "all_three_response_bands": true
+    }
+  ],
+  "relaxed_frontier_policy_rows": 161,
+  "relaxed_frontier_response_checks": 483,
+  "scope_of_exact_relaxed_frontier": "Belgian floor relaxation 3 percent or 5 percent, all other national safeguards unchanged",
+  "source_unchanged": true
+}

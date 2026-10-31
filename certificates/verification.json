@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "seconds": 67.72306394577026,
+  "optimizer_calls": 0,
+  "policy_rows_checked": 382,
+  "policy_band_checks": 1146,
+  "dominance_witness_pairs_verified": 1926844,
+  "all_price_exclusions": [
+    {
+      "country": "Finland",
+      "climate": "positive",
+      "bio": "gain",
+      "verified_shortfall_lower": 0.000972925723064676,
+      "all_finite_prices_excluded": true
+    },
+    {
+      "country": "Sweden",
+      "climate": "positive",
+      "bio": "gain",
+      "verified_shortfall_lower": 0.023215064722819145,
+      "all_finite_prices_excluded": true
+    }
+  ],
+  "region_certificates_checked": 20,
+  "scalar_support_segments_checked": 484203,
+  "largest_relative_endpoint_guard_use": -0.4656612873077392,
+  "resource_certificates_checked": 19,
+  "maximum_cash_identity_error": 7.62939453125e-06,
+  "maximum_canonical_choice_gap": 0.0,
+  "robust_constructions": {
+    "common_final": {
+      "countries": 23,
+      "positive_B": 21,
+      "CEE_positive_B": 11,
+      "guaranteed_band": 0.0001
+    },
+    "national_final": {
+      "countries": 23,
+      "positive_B": 4,
+      "CEE_positive_B": 0,
+      "guaranteed_band": 0.0001
+    }
+  },
+  "common_complement_lower_from_support_bounds": 14,
+  "global_common_complement_upper_constructed": 21,
+  "national_minimum_complements_certified": 4
+}

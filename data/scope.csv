@@ -1,0 +1,28 @@
+country,included,group,n_sdu,E0_USD2015_per_year,C20_0_index_tCO2e,B0_national_score,Bmax_national_score,Emax_USD2015_per_year,coverage_reason
+Austria,True,Other 12,1706,389198283.39497006,1088947842.4331439,765720.486958,991774.418897,451123234.046512,All available EU members; fixed before outcome comparisons
+Belgium,True,Other 12,690,109536881.253328,279892556.3763673,266554.916683,345742.16018500004,115511694.108878,All available EU members; fixed before outcome comparisons
+Bulgaria,True,CEE-11,2053,696882610.828327,1088466992.7469923,987350.5884410001,1206975.805291,911593945.439653,All available EU members; fixed before outcome comparisons
+Croatia,True,CEE-11,1256,437005789.382394,531976763.6342385,498821.41257,611699.221457,789978484.1536698,All available EU members; fixed before outcome comparisons
+Cyprus,False,Not represented,,,,,,,Absent from EU source coverage
+Czechia,True,CEE-11,1637,836663387.503913,838936083.1370668,802961.689177,1029475.864646,1053147913.828841,All available EU members; fixed before outcome comparisons
+Denmark,True,Other 12,1238,107992024.767118,335576869.1110704,412179.154906,503444.951934,145841932.24557102,All available EU members; fixed before outcome comparisons
+Estonia,True,CEE-11,1258,124963610.87177798,455233047.9659804,648467.3142300001,810498.055905,507421349.639471,All available EU members; fixed before outcome comparisons
+Finland,True,Other 12,10061,1120086067.964851,3329484745.0608873,5014619.451643,6150424.982362,1486951028.7891421,All available EU members; fixed before outcome comparisons
+France,True,Other 12,10379,3390777150.200764,5139420044.862448,4523747.002262,5702663.674318,4101216349.1838374,All available EU members; fixed before outcome comparisons
+Germany,True,Other 12,7465,3008856244.1817036,3847497341.0861826,3598991.370264,4553745.546943,3316462563.535412,All available EU members; fixed before outcome comparisons
+Greece,True,Other 12,2834,308471169.91662,1060034123.4918294,900795.818309,1162908.0292409998,357391585.630592,All available EU members; fixed before outcome comparisons
+Hungary,True,CEE-11,1832,1444977009.097663,675051833.440928,960983.55636,1165367.9647130002,2241747664.563256,All available EU members; fixed before outcome comparisons
+Ireland,False,Not represented,,,,,,,Absent from EU source coverage
+Italy,True,Other 12,5659,1580059833.096959,2578628251.633752,2282797.6759280004,2758286.513984,1930182927.046087,All available EU members; fixed before outcome comparisons
+Latvia,True,CEE-11,1600,231082955.97453302,655377335.0210589,854961.25398,1074363.9912649998,658374977.0740659,All available EU members; fixed before outcome comparisons
+Lithuania,True,CEE-11,1532,252863300.223305,545678927.3886687,836207.32332,1047423.6281290001,488010534.748451,All available EU members; fixed before outcome comparisons
+Luxembourg,False,Not represented,,,,,,,Absent from EU source coverage
+Malta,False,Not represented,,,,,,,Absent from EU source coverage
+Netherlands,True,Other 12,891,60924399.842118,302740039.1720493,333784.032189,405790.66981299996,100435740.92807999,All available EU members; fixed before outcome comparisons
+Poland,True,CEE-11,6584,3289074243.8268948,3590041967.1348014,3366559.5090039996,4202731.835416,6360987297.010337,All available EU members; fixed before outcome comparisons
+Portugal,True,Other 12,1681,565520580.037715,403786666.24002016,626851.10562,784469.891632,665034146.9516181,All available EU members; fixed before outcome comparisons
+Romania,True,CEE-11,4425,2353653863.5462885,2012829494.5755508,2220189.9797980003,2710762.6396919996,3948641373.458744,All available EU members; fixed before outcome comparisons
+Slovakia,True,CEE-11,1003,352721049.976411,547398188.029689,526433.497443,654631.121085,487128186.29446596,All available EU members; fixed before outcome comparisons
+Slovenia,True,CEE-11,429,96917399.14261702,266568065.36535734,199593.453674,256102.766978,125046395.705288,All available EU members; fixed before outcome comparisons
+Spain,True,Other 12,8720,2323342149.174553,2388173599.1175013,3502693.38837,4364519.748843,2880372697.078479,All available EU members; fixed before outcome comparisons
+Sweden,True,Other 12,12711,1893656478.560495,4228431763.1734905,5680830.574793,7123482.363198,2403077783.359433,All available EU members; fixed before outcome comparisons

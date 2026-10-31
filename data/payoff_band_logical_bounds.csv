@@ -1,0 +1,4 @@
+alpha,epsilon,national_B_minimum_lower,national_B_minimum_upper,common_B_minimum_lower,common_B_minimum_upper,extra_B_minimum_lower,status
+0.0,0.0001,2,4,12,21,8,Logical bounds from nested response sets and the existing 5% constructions; no new price search
+0.025,0.0001,3,4,14,21,10,Logical bounds from nested response sets and the existing 5% constructions; no new price search
+0.05,0.0001,4,4,14,21,10,Logical bounds from nested response sets and the existing 5% constructions; no new price search

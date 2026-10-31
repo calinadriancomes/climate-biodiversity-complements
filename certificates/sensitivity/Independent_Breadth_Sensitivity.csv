@@ -1,0 +1,4 @@
+alpha,country_count,climate_only_national_max,minimum_national_B_complements,climate_only_common_max,minimum_common_B_complements_lower_bound,minimum_extra_B_complements_lower_bound,CEE11_climate_only_common_max,CEE11_minimum_common_B_complements_lower_bound,validated_common_lambda,validated_common_countries
+0.0,23,21,2,11,12,10,6,5,0.8132926658024235,Bulgaria;Croatia;Czechia;Denmark;France;Italy;Lithuania;Netherlands;Portugal;Romania;Slovakia
+0.025,23,20,3,9,14,11,5,6,0.7826964122991585,Bulgaria;Croatia;Denmark;France;Italy;Lithuania;Netherlands;Portugal;Romania
+0.05,23,19,4,9,14,10,5,6,0.9415136201319285,Bulgaria;Croatia;Czechia;Denmark;Italy;Netherlands;Portugal;Romania;Slovakia
